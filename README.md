@@ -13,9 +13,13 @@ nom et prenom:  Kogui Rema
 Le DevOps est une méthode de travail qui permet aux développeurs et aux administrateurs système de collaborer pour créer, déployer et maintenir des applications rapidement et efficacement.
 ##  Commandes Git utilisées
 git init
-git status` 
+
+git status`
+
 git add .` | 
+
 git commit -m " initialisation au projet DevOps "` 
+
 git push origin main` 
 
 -
