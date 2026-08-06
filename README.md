@@ -4,9 +4,9 @@
 
 nom et prenom:  Kogui Rema
 
- filière MPI
+ filière :MPI
 
-+- Niveau d'étude :L1 cyber sécurite 
+ Niveau d'étude :L1 cyber sécurite 
 
 ##  definition du DevOps 
 
