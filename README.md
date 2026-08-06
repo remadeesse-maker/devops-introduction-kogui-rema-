@@ -1,35 +1,19 @@
 # devops-introduction-kogui-rema-
-Aucun élément sélectionné
++
+## information personnele 
++
++- nom et prenom:  Kogui Rema
++- filière MPI
++- Niveau d'étude :L1 cyber sécurite 
++
+##  definition du DevOps 
 
-Aller au contenu
-Utiliser Gmail avec
-
-# Projet DevOps - Gestion de version avec Git
-
-##  Auteur
-**Rema Kogui**
-Étudiante en Licence 1 Cybersécurité
-
----
-
-## Contexte du projet
-
-Le **DevOps** est une méthode de travail qui permet aux développeurs et aux administrateurs système de collaborer pour créer, déployer et maintenir des applications rapidement et efficacement.
-
-Dans le cadre de mon apprentissage, j'ai mis en place un dépôt Git pour gérer les versions de mon projet.
-
----
-
+Le DevOps est une méthode de travail qui permet aux développeurs et aux administrateurs système de collaborer pour créer, déployer et maintenir des applications rapidement et efficacement.
 ##  Commandes Git utilisées
+git init
+git status` 
+git add .` | 
+git commit -m " initialisation au projet DevOps "` 
+git push origin main` 
 
-| Commande | Description |
-|----------|
-| `git init` | Initialise un nouveau dépôt Git dans le dossier courant |
-| `git status` | Vérifie l'état des fichiers (modifiés, ajoutés, non suivis) |
-| `git add .` | Ajoute tous les fichiers modifiés à la zone de staging |
-| `git commit -m "message"` | Enregistre les changements avec un message descriptif |
-| `git push origin main` | Envoie les commits locaux vers le dépôt distant sur la branche `main` |
-
----
-
-
+-
