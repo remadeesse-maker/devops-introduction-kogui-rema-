@@ -16,10 +16,8 @@ git init
 
 git status`
 
-git add .` | 
+git add 
 
 git commit -m " initialisation au projet DevOps "` 
 
 git push origin main` 
-
--
